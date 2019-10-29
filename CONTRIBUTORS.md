@@ -332,6 +332,12 @@
 - Bio: Student and want to be a Data Scientists
 - Github: https://github.com/alifnaufalyasin
 
+### Monique Baptista
+- Photo: https://cdn.internationalstudent.com/images/international-student/study/graphic-design-300x250.png
+- Location: Curitiba, Brazil
+- Bio: Math student
+- Github: https://github.com/bfmonique
+
 ### Kasun nirosh
 - Photo:
 - Location: colombo,srilanka
